@@ -1,0 +1,7 @@
+pandas
+matplotlib
+seaborn
+SimpleITK >= 2.0
+vtk >= 9.0
+scipy
+xlsxwriter
